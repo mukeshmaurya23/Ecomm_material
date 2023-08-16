@@ -1,16 +1,20 @@
 import React from "react";
 
 import Footer from "./components/Footer";
-import Header from "./components/Header";
+
+import Navbar from "./components/Navbar";
+import MainConatiner from "./components/MainConatiner";
 
 const App = () => {
   return (
     <>
-      <Header />
+      <Navbar />
+      {/* <Header /> */}
+      <MainConatiner />
 
-      <div>
+      {/* <div>
         <Footer />
-      </div>
+      </div> */}
     </>
   );
 };
