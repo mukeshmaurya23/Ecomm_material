@@ -35,7 +35,7 @@ const Footer = () => {
             <Typography variant="footerContent">FAQ</Typography>
             <Typography variant="footerContent">Report Infringement</Typography>
           </Stack>
-          <Stack spacing={2} px={10} py={5}>
+          <Stack spacing={2} px={1} py={5}>
             <Typography variant="footerHeading">Consumer Policy</Typography>
             <Typography variant="footerContent">
               Cancellation & Returns
