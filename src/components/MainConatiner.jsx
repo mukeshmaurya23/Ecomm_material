@@ -17,7 +17,6 @@ const MainConatiner = () => {
         <Electronics />
         <GridSystem />
       </Box>
-      <Footer />
     </>
   );
 };
